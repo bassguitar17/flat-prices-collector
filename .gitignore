@@ -32,4 +32,16 @@ build/
 ### VS Code ###
 .vscode/
 
-*.properties
+
+
+### === ONLY CUSTOM BELOW === ###
+
+
+
+### MAVEN ###
+mvnw
+mvnw.cmd
+/.mvn/
+
+### PROPERTIES ###
+/src/main/resources/application.properties
