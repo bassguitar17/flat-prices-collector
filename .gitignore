@@ -150,4 +150,14 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/maven,intellij
+<<<<<<< HEAD
 >>>>>>> update gitignore file due to gitignore.io
+=======
+/.idea/
+/.mvn/
+/HELP.md
+/falt.iml
+/flats.iml
+/mvnw
+/mvnw.cmd
+>>>>>>> update gitignore
